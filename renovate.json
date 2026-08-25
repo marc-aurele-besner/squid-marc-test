@@ -25,5 +25,6 @@
   // "automerge": true,
   "automergeType": "pr",
   "automergeStrategy": "squash",
-  "ignoreTests": true
+  "ignoreTests": true,
+  "minimumReleaseAge": "1 day"
 }
